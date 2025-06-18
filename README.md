@@ -1,4 +1,4 @@
-# 🤖 MyGenAI Avatar – Personal AI Assistant Web App
+# 🤖 MyGenAI Avatar – MY Gen AI Text
 
 **MyGenAI Avatar** is a sleek, interactive web application showcasing a personalized generative AI assistant built using Gradio, HTML, CSS, and JavaScript. This app acts as a showcase of modern GenAI technologies like OpenAI, LangChain, Hugging Face, PlayHT, and Google Colab.
 
